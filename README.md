@@ -1,1 +1,1 @@
-https://codespaces.new/SamiAlsabal2026/Restaurant.Sami-Ahmed-ALsabal?quickstart=1
+https://samialsabal2026.github.io/Restaurant.Sami-Ahmed-ALsabal/
